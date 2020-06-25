@@ -40,7 +40,33 @@ namespace C_sharp
             Console.WriteLine("3" + 3); // 33
             Console.WriteLine( 3 + "3"); // 33
             Console.WriteLine( 3 + 3); // 6
-            Console.WriteLine( 9 + 3 + "3"); // 93
+            Console.WriteLine( 9 + 3 + "3"); // 123
+
+
+            //output our Variable
+            Console.WriteLine( myInt );//42
+
+            // A new assignment on an existing variable.
+            myInt = myInt + 2; // 44
+            Console.WriteLine( myInt );
+
+            /*
+            We cant turn myInt into a string! We told C# that myInt would always be an Int!
+            
+            myInt = myInt + "2"; // 44
+            Console.WriteLine( myInt ); */
+
+            myInt--; // tha same as typing myInt == myInt - 1;
+            Console.WriteLine(myInt); // 43
+
+
+            myInt += 4; // tha same as typing: myInt = myInt +3;
+            Console.WriteLine(myInt); //47
+
+
+             myInt -= 5; // tha same as typing: myInt = myInt -5;
+            Console.WriteLine(myInt); //42
+
             
 
 
