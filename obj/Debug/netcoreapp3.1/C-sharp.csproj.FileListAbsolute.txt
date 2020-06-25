@@ -11,3 +11,16 @@ C:\Users\manin\Desktop\CSharpe\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.csproj.Co
 C:\Users\manin\Desktop\CSharpe\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.dll
 C:\Users\manin\Desktop\CSharpe\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.pdb
 C:\Users\manin\Desktop\CSharpe\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.genruntimeconfig.cache
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\bin\Debug\netcoreapp3.1\C-sharp.exe
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\bin\Debug\netcoreapp3.1\C-sharp.deps.json
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\bin\Debug\netcoreapp3.1\C-sharp.runtimeconfig.json
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\bin\Debug\netcoreapp3.1\C-sharp.runtimeconfig.dev.json
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\bin\Debug\netcoreapp3.1\C-sharp.dll
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\bin\Debug\netcoreapp3.1\C-sharp.pdb
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.csprojAssemblyReference.cache
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.AssemblyInfoInputs.cache
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.AssemblyInfo.cs
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.csproj.CoreCompileInputs.cache
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.dll
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.pdb
+C:\Users\manin\Desktop\TECHCareer Spring 2020\ClassProjects\C-sharp\obj\Debug\netcoreapp3.1\C-sharp.genruntimeconfig.cache

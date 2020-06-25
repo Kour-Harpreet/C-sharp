@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\manin\\Desktop\\CSharpe\\C-sharp\\C-sharp.csproj": {}
+    "C:\\Users\\manin\\Desktop\\TECHCareer Spring 2020\\ClassProjects\\C-sharp\\C-sharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\manin\\Desktop\\CSharpe\\C-sharp\\C-sharp.csproj": {
+    "C:\\Users\\manin\\Desktop\\TECHCareer Spring 2020\\ClassProjects\\C-sharp\\C-sharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\manin\\Desktop\\CSharpe\\C-sharp\\C-sharp.csproj",
+        "projectUniqueName": "C:\\Users\\manin\\Desktop\\TECHCareer Spring 2020\\ClassProjects\\C-sharp\\C-sharp.csproj",
         "projectName": "C-sharp",
-        "projectPath": "C:\\Users\\manin\\Desktop\\CSharpe\\C-sharp\\C-sharp.csproj",
+        "projectPath": "C:\\Users\\manin\\Desktop\\TECHCareer Spring 2020\\ClassProjects\\C-sharp\\C-sharp.csproj",
         "packagesPath": "C:\\Users\\manin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\manin\\Desktop\\CSharpe\\C-sharp\\obj\\",
+        "outputPath": "C:\\Users\\manin\\Desktop\\TECHCareer Spring 2020\\ClassProjects\\C-sharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\manin\\AppData\\Roaming\\NuGet\\NuGet.Config",
