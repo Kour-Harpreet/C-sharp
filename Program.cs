@@ -16,9 +16,9 @@ namespace C_sharp
                 if (command == "add")
                 {
                     Console.WriteLine("Enter first number to add:");
-                    int firstNum = int.Parse(Console.ReadLine());
+                    int firstNum = CollectIntFromUser();
                     Console.WriteLine("Enter second number to add:");
-                    int secondNum = int.Parse(Console.ReadLine());
+                    int secondNum = CollectIntFromUser();
                     result = Addition(firstNum, secondNum);
                     Console.WriteLine("The result is: {0}", result);
 
@@ -27,9 +27,9 @@ namespace C_sharp
                 {
 
                     Console.WriteLine("Enter first number to subtract:");
-                    int firstNum = int.Parse(Console.ReadLine());
+                    int firstNum = CollectIntFromUser();
                     Console.WriteLine("Enter second number to subtract:");
-                    int secondNum = int.Parse(Console.ReadLine());
+                    int secondNum = CollectIntFromUser();
                     result = Subtraction(firstNum, secondNum);
                     Console.WriteLine("The result is: {0}", result);
                 }
@@ -52,8 +52,29 @@ namespace C_sharp
         {
             return num1 - num2;
         }
+        static int CollectIntFromUser()
+        {
+            int intValue = 0;
 
+            bool error = true;
+            while (error == true)
+            {
+                string userValue = Console.ReadLine();
+                try // wrap potentially-failing code in a try - this will prevent an unhandled exception( fatal eror for your program)
+                {
+                     intValue = int.Parse(userValue);
+                    error = false;
 
+                }
+                catch (Exception exception)
+                { // we use "catch" to decide what happens if the  "try" has an error!
+                    Console.WriteLine("invalid value entered. please enter a number");
+                    Console.WriteLine(exception.Message); // The exceptionhas its own error meassage - helpful to know what is failing! 
+                }
+            }// End of the while loop
+            return intValue; // ends execution of the method , and passes the value back
+    }
+        
     }
 
 }
