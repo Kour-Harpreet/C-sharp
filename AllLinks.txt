@@ -1,0 +1,26 @@
+Check out today's GitHub repo if you'd like to see what we did:
+https://github.com/TECHCareers-by-Manpower/c-sharp-intro
+
+Software links: 
+Git and Bash Terminal
+GitHub
+.NET Core 3.1 SDK ("Build Apps" button)
+Visual Studio Code
+
+
+UofA Resources:
+University of Alberta Library
+OnTheHub Software
+
+Other Resources:
+C# Microsoft Documentation
+C# Yellow Book: Cheese Edition
+W3Schools C#
+LearnCS
+LinkedIn Learning
+PluralSight
+Codecademy
+
+Cheatsheets:
+Bash
+Git

@@ -69,7 +69,7 @@ namespace C_sharp
                 catch (Exception exception)
                 { // we use "catch" to decide what happens if the  "try" has an error!
                     Console.WriteLine("invalid value entered. please enter a number");
-                    Console.WriteLine(exception.Message); // The exceptionhas its own error meassage - helpful to know what is failing! 
+                    Console.WriteLine(exception.Message); // The exception has its own error meassage - helpful to know what is failing! 
                 }
             }// End of the while loop
             return intValue; // ends execution of the method , and passes the value back
